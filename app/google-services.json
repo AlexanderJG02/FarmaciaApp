@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "527370204983",
+    "project_id": "farmaciaudb-f0c70",
+    "storage_bucket": "farmaciaudb-f0c70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527370204983:android:9106b4c06a37f8f5b18cb2",
+        "android_client_info": {
+          "package_name": "com.emer.farmacia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527370204983-p6d7a8lrbavrtv9m3stca95fo7kjn9j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT7AibBQiYw-i5D7LczOrs539enL2lUBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527370204983-p6d7a8lrbavrtv9m3stca95fo7kjn9j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527370204983:android:f66d3f2eba136f79b18cb2",
+        "android_client_info": {
+          "package_name": "com.example.appfarmsplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527370204983-p6d7a8lrbavrtv9m3stca95fo7kjn9j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT7AibBQiYw-i5D7LczOrs539enL2lUBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527370204983-p6d7a8lrbavrtv9m3stca95fo7kjn9j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">AppFarmsPlus</string>
+
+    <!-- Descripción de la imagen del producto -->
+    <string name="product_image">Imagen del producto</string>
+
+    <!-- Texto para el botón de agregar al carrito -->
+    <string name="add_to_cart">Agregar al carrito</string>
+</resources>

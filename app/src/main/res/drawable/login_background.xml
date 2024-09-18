@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape  xmlns:andriod="http://schemas.android.com/aapt">
+
+    <gradient andriod:type="Linear" andriod:angle="100"
+        andriod:startColor="#D54848" andriod:endColor="336DE1"/>
+</shape>
