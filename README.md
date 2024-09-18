@@ -14,4 +14,3 @@
 
 https://drive.google.com/file/d/1dg0BuDg9CTVra65Z83peshYcoC0xP68Y/view?pli=1
 
-file:///C:/Users/alexa/Desktop/movil2.pdf
