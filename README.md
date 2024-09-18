@@ -5,4 +5,11 @@
 
  ![imagen](https://github.com/user-attachments/assets/71d2ba7b-2025-4869-8358-4e647b0c51e9)
 
+ # Paleta de Colores
+
+| Color | Código Hex | Muestra            |
+|-------|------------|--------------------|
+| Rojo  | `#FF0000`  | ![#FF0000]
+| Blanco | `#FFFFFF`  | ![#FFFFFF]
+
 
